@@ -1,5 +1,0 @@
-﻿{
-    "outputDirectory":  "build",
-    "buildCommand":  "npm run build",
-    "nodeVersion":  "18.x"
-}
