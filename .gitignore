@@ -1,22 +1,7 @@
-﻿# Dependencies
-node_modules/
-.pnp
-.pnp.js
-
-# Production
+﻿node_modules/
 dist/
-build/
-
-# Misc
-.DS_Store
 .env
 .env.local
-.env.*.local
-npm-debug.log*
-yarn-debug.log*
-
-# IDE
-.idea/
-.vscode/
-*.suo
-*.sln
+.DS_Store
+*.log
+build/
